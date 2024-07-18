@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+- 멋쟁이사자처럼 12기 활동 중 
+- 비즈플로우 pre-contest 대상 🏆
