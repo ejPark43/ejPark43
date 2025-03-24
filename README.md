@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+수상내역
 - 2022 sw 페스티벌 1학년 부문 최우수상 🏆 (팀 다대기) 
-- 멋쟁이사자처럼 12기 활동
-- 멋쟁이사자처럼 13기 프론트엔드 멘토 
-- 비즈플로우 pre-contest 대상 🏆
-- 2024 가을학기 sw 페스티벌 장려상 (stepper)
+- 2024 봄학기 BizFlow pre-contest 대상 🏆
+- 2024 여름방학 BizFlow M-contest 최우수상 🏆
+- 2024 sw 페스티벌 장려상 (stepper)
+
+활동내용 
+- 한동대 멋쟁이사자처럼 12기 활동
+- 한동대 멋쟁이사자처럼 13기 프론트엔드 멘토
+- 
