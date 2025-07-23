@@ -27,15 +27,18 @@ Here are some ideas to get you started:
 - 한동대 멋쟁이사자처럼 13기 프론트엔드 멘토
 
 
-
+<p align="center">
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{ejPark43}?pet-id=735754760845316816" width="1000" height="120"/>
 </a>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ejPark43&utm_content=farm">
-<img
+  <img
   src="https://render.gitanimals.org/farms/ejPark43"
-  width="600"
-  height="300"
+  width="1000"
+  height="350"
 />
+
 </a>
+
+  </p>
