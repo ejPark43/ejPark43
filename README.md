@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 - 한동대 멋쟁이사자처럼 12기 활동
 - 한동대 멋쟁이사자처럼 13기 프론트엔드 멘토
 
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{ejPark43}?pet-id=1" width="1000" height="120"/>
+</a>
